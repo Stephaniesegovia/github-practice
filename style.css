@@ -1,0 +1,31 @@
+*,
+*::before,
+*::after {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header, nav, footer, section, article, aside {
+    border: 1px solid rgb(62, 60, 66);
+    background-color: burlywood;
+}
+
+section {
+    width: 75%;
+    height: 100px;
+    background-color: pink;
+}
+
+article {
+    width: 75%;
+    height: 100px;
+    background-color: palegoldenrod;
+}
+
+aside {
+    float: right;
+    width: 25%;
+    height: 200px;
+    background-color: sandybrown;
+}
