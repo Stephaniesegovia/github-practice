@@ -7,8 +7,8 @@
 }
 
 body {
-    background-image: url("../img/abstract-watercolor-texture-background-vector_1055-9115.jpeg");
     background-color: #cccccc;
+    background: #cccccc url("../img/abstract-watercolor-texture-background-vector_1055-9115.jpeg") no-repeat left top;
    }
 
 header, nav, footer, section, article, aside {
