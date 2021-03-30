@@ -34,3 +34,11 @@ aside {
     height: 200px;
     background-color: sandybrown;
 }
+
+footer {
+    text-align: center;
+    padding: 3px;
+    background-color: DarkSalmon;
+    color: white;
+}
+/* my 1st comment*/
